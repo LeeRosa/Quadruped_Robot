@@ -16,7 +16,7 @@
 	-블루투스 통신 이용
   
 ## Hardware Architecture
-  ![image](https://user-images.githubusercontent.com/53519801/153713518-521709df-666f-4525-a625-aa53dfef4b1a.png)
+  <img src = "https://user-images.githubusercontent.com/53519801/153713518-521709df-666f-4525-a625-aa53dfef4b1a.png" width = "800" height = "300">
 (손수 그림을 그렸던 귀여웠던 1학년 시절.. )
 
 ## System Architecture
@@ -24,7 +24,7 @@
 
 ##Project Contents
 ### Hareware
-![image](https://user-images.githubusercontent.com/53519801/153713594-4f6c644d-5f8f-47df-800b-4f0770964958.png)
+  <img src = "https://user-images.githubusercontent.com/53519801/153713594-4f6c644d-5f8f-47df-800b-4f0770964958.png" width = "500" height = "300">
 (사진 출처 : 광운대학교 바람 16학번 제안서)
 
 1. 한 다리당 세 개의 관절
@@ -51,8 +51,7 @@
 ![image](https://user-images.githubusercontent.com/53519801/153714024-0f2a5b97-f4a2-4db2-8158-d174633573bb.png)
 
 Bluetooth Controller 어플을 활용하였다.
-
-![image](https://user-images.githubusercontent.com/53519801/153714094-5db1d5a3-2503-4e88-a83d-fb14123f8771.png)
+  <img src = "https://user-images.githubusercontent.com/53519801/153714094-5db1d5a3-2503-4e88-a83d-fb14123f8771.png" width = "300" height = "600">
 
 1. 어플의 버튼을 클릭할 때 마다 특정한 값은 전송한다.
 2. Atmega128에서 값을 수신하여 변수에 저장한다.
