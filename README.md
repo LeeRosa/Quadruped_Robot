@@ -32,8 +32,6 @@
 3. 포맥스를 이용한 몸체 제작
 
 ### Motion
-![image](https://user-images.githubusercontent.com/53519801/153713613-3964624b-cb9f-4ae9-a0e2-472e1e9945d2.png)
-
 #### 1. 직진 (후진도 같은 원리)
 ![image](https://user-images.githubusercontent.com/53519801/153713974-5afbcbcc-d116-4b31-ada7-92a637e74177.png)
 
@@ -51,7 +49,7 @@
 ![image](https://user-images.githubusercontent.com/53519801/153714024-0f2a5b97-f4a2-4db2-8158-d174633573bb.png)
 
 Bluetooth Controller 어플을 활용하였다.
-  <img src = "https://user-images.githubusercontent.com/53519801/153714094-5db1d5a3-2503-4e88-a83d-fb14123f8771.png" width = "300" height = "600">
+  <img src = "https://user-images.githubusercontent.com/53519801/153714094-5db1d5a3-2503-4e88-a83d-fb14123f8771.png" width = "150" height = "300">
 
 1. 어플의 버튼을 클릭할 때 마다 특정한 값은 전송한다.
 2. Atmega128에서 값을 수신하여 변수에 저장한다.
