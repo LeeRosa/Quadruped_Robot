@@ -1,9 +1,9 @@
 # Quadruped_Robot🕷
 
 ## 기본 정보
-사용 MCU : ATmega128 /n
-사용 언어 : C /n
-재료 : 포맥스, AX-12 모터 12개, 블루투스 모듈(FB-155BC), Controller 휴대폰 /n
+- 사용 MCU : ATmega128
+- 사용 언어 : C
+- 재료 : 포맥스, AX-12 모터 12개, 블루투스 모듈(FB-155BC), Controller 휴대폰
 
 ## Motive for Selection
 배틀로봇 이후 여러 개의 모터를 사용한 작품을 만들어보고 싶어서 찾아보던 중 유튜브에서 사족보행 로봇이 움직이는 것을 보고 직접 구현해보고 싶어서 결정하였다.
