@@ -1,4 +1,4 @@
-# Quadruped_Robot
+# Quadruped_Robot🕷
 
 ## 기본 정보
 사용 MCU : ATmega128
